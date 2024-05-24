@@ -6,7 +6,11 @@ The objective of this lab is to create a Basic Ansible Playbook, ensure Services
 
 ### Skills Learned
 
-By completing this lab, I will gain hands-on experience with Docker installation procedures and container creation, enabling me to incorporate containerization technology into my development workflow effectively.
+Upon completion of this intermediate-level lab, you will be able to:
+
+Use the command line to create a new Ansible playbook
+Install and configure the Apache webserver using an Ansible playbook
+Make our playbook more reusable by adding variables
 
 ### Tools Used
 
@@ -16,7 +20,7 @@ By completing this lab, I will gain hands-on experience with Docker installation
 
 ## What is Ansible
 
-Docker is an open-source platform that automates the deployment, scaling, and management of applications inside containers. Containers are lightweight, portable, and self-sufficient units that encapsulate the application code, runtime, system tools, libraries, and settings required to run the application. Docker provides a standardized way to package and distribute applications, allowing developers to build, ship, and run their applications seamlessly across different environments, from development to production. With Docker, developers can create isolated environments for their applications, ensuring consistency and reliability across various infrastructure platforms, whether it's on-premises, in the cloud, or hybrid environments.
+Ansible is an open-source automation tool designed for IT tasks such as configuration management, application deployment, orchestration, and provisioning. It enables IT administrators and DevOps teams to automate repetitive tasks, ensuring consistency and efficiency across systems.
 
 ## Step 1 - Check Ansible version
 
